@@ -1,0 +1,5 @@
+skinparam handwritten true
+skinparam monochrome true
+skinparam defaultFontName Lucida Handwriting Italic
+skinparam shadowing false
+hide footbox
