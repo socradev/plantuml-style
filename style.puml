@@ -1,0 +1,12 @@
+skinparam monochrome true
+skinparam defaultFontName Helvetica Neue
+skinparam shadowing false
+
+skinparam sequence {
+    DividerBorderThickness 1
+    DividerFontStyle normal
+    GroupBorderThickness 1
+    GroupBodyBackgroundColor #FbFbFb
+}
+
+hide footbox
