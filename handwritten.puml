@@ -1,5 +1,5 @@
 skinparam handwritten true
 skinparam monochrome true
-skinparam defaultFontName Run Wild
+skinparam defaultFontName "Lucida Handwriting"
 skinparam shadowing false
 hide footbox
