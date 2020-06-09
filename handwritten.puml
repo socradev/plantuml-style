@@ -1,5 +1,4 @@
+skinparam backgroundColor #EEEBDC
 skinparam handwritten true
-skinparam monochrome true
 skinparam defaultFontName "Lucida Handwriting"
-skinparam shadowing false
-hide footbox
+center footer <font color=red>Warning:</font> Created for discussion, needs to be validated
